@@ -18,4 +18,6 @@ export const DataFormater = (number : number) => {
   }else{
     return number.toString();
   }
+
+  
 }
